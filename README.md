@@ -36,4 +36,4 @@ Projetos práticos que resolvi no trabalho ou que desenvolvi para aprender na pr
 ## 📫 Contato
 
 Aberto a oportunidades e trocas de experiência!
-Me encontre no [LinkedIn](https://linkedin.com/in/viniboricuo) ou mande um e-mail.
+Me encontre no [LinkedIn](https://linkedin.com/in/viniciusribeiroabel) ou mande um e-mail.
