@@ -1,39 +1,38 @@
-# Olá, eu sou o Vinícius 👋
+# Vinicius Ribeiro Abel
 
-Analista de BI com foco em transformar dados em decisões. Trabalho principalmente com **Power BI**, **DAX** e **Python** para automatizar relatórios e criar dashboards que as pessoas realmente usam.
+**Analista de BI Pleno · Do pipeline de dados ao dashboard: decisões confiáveis.**
 
-Não sou desenvolvedor — uso código como ferramenta para resolver problemas de negócio mais rápido. Meu objetivo sempre é o mesmo: menos planilha manual, mais insight acionável.
+> BI Analyst in São Paulo building data pipelines (SQL Server, Python) and dimensional models behind Power BI dashboards and Flask apps.
+> I make sure the numbers on the dashboard match the source, end to end.
 
----
+## O que eu faço
+- **Pipelines de dados:** cargas incrementais e transacionais em Python (SQLAlchemy) para SQL Server, sem duplicidade de registros.
+- **Modelagem e performance:** modelagem dimensional (Star Schema), DAX e T-SQL otimizados para bases com milhões de linhas.
+- **Dashboards e apps analíticos:** Power BI e aplicações web em Flask, com cada indicador validado contra o banco.
 
-## 🛠️ Ferramentas do dia a dia
+## Resultados
+- Consultas T-SQL de **7 min → segundos**, reestruturando CTEs encadeadas em tabelas temporárias por etapas
+- Modelo Power BI de **1,1 GB → 766 MB (-31%)** após diagnóstico com VertiPaq Analyzer, sem alterar nenhuma medida
+- Modelos até **58% menores** com reestruturação em Star Schema
+- Automação em Python que eliminou **mais de 1h/dia** de trabalho manual
+- Manual de **governança de BI**: nomenclatura, padrões de dashboard e catálogo de tabelas
 
-**BI & Visualização:** Power BI · DAX · Power Query
-**Automação & Dados:** Python (pandas, openpyxl) · Excel avançado
-**Banco de Dados:** SQL
-**Versionamento:** Git · GitHub
+## Stack
+| Área | Ferramentas |
+|---|---|
+| Dados | SQL Server · T-SQL (CTEs, window functions, otimização) |
+| Python | Pandas · SQLAlchemy · pyodbc · Flask |
+| BI | Power BI · DAX · Power Query (M) · VertiPaq Analyzer · Tabular Object Model |
+| Modelagem | Star Schema · modelagem dimensional · ETL incremental |
+| Outros | Git · SAP · IA generativa como par de programação |
 
----
+## Projetos em destaque
+| Projeto | O que mostra |
+|---|---|
+| [powerbi-customer-base-monitoring](https://github.com/Viniboricuo/powerbi-customer-base-monitoring) | Dashboard Power BI com Star Schema, DAX de variação e rankings dinâmicos |
 
-## 📂 O que você vai encontrar aqui
+## Estudando agora
+AWS · Databricks · certificação PL-300 (Power BI Data Analyst)
 
-Projetos práticos que resolvi no trabalho ou que desenvolvi para aprender na prática:
-
-- **Automações de relatórios** com Python para eliminar tarefas repetitivas
-- **Scripts de auditoria e validação** de planilhas Excel
-- Estudos e experimentos com dados reais
-
----
-
-## 📌 Em andamento
-
-- Aprofundando conhecimentos em SQL para análises mais complexas
-- Estudando modelagem de dados para otimização de dashboards Power BI
-- Explorando visualizações com Python (matplotlib, plotly)
-
----
-
-## 📫 Contato
-
-Aberto a oportunidades e trocas de experiência!
-Me encontre no [LinkedIn](https://linkedin.com/in/viniciusribeiroabel) ou mande um e-mail.
+## Contato
+[LinkedIn](https://www.linkedin.com/in/viniciusribeiroabel)
