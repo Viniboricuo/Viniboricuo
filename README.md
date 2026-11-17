@@ -27,9 +27,14 @@
 | Outros | Git · SAP · IA generativa como par de programação |
 
 ## Projetos em destaque
-| Projeto | O que mostra |
-|---|---|
-| [powerbi-customer-base-monitoring](https://github.com/Viniboricuo/powerbi-customer-base-monitoring) | Dashboard Power BI com Star Schema, DAX de variação e rankings dinâmicos |
+Painéis de varejo reconstruídos do zero para uma marca fictícia (Demo Retail Co.), com dados sintéticos gerados por semente. Todos rodam no navegador, sem servidor.
+
+| Projeto | O que mostra | Demo |
+|---|---|---|
+| [inventory-flow-analytics](https://github.com/Viniboricuo/inventory-flow-analytics) | Star Schema de estoque (2 fatos, 3 dimensões), aging, cobertura, giro e **validação contra a origem** com regras de qualidade | [abrir](https://viniboricuo.github.io/inventory-flow-analytics/) |
+| [sellin-sellout-analytics](https://github.com/Viniboricuo/sellin-sellout-analytics) | Sell-in × sell-out de lançamentos por canal, sell-through 4S, filtros em cascata, exportação para Excel e modo TV | [abrir](https://viniboricuo.github.io/sellin-sellout-analytics/) |
+| [customer-planning-rfv](https://github.com/Viniboricuo/customer-planning-rfv) | RFV por quintis, k-means, curva ABC, recorrência, safras e funil de CRM | [abrir](https://viniboricuo.github.io/customer-planning-rfv/) |
+| [powerbi-customer-base-monitoring](https://github.com/Viniboricuo/powerbi-customer-base-monitoring) | Dashboard Power BI com Star Schema, DAX de variação e rankings dinâmicos | — |
 
 ## Estudando agora
 AWS · Databricks · certificação PL-300 (Power BI Data Analyst)
